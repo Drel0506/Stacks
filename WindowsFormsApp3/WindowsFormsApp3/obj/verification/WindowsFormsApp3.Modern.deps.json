@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WindowsFormsApp3.Modern/1.0.0": {
+        "runtime": {
+          "WindowsFormsApp3.Modern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp3.Modern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
